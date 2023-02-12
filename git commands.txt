@@ -1,0 +1,10 @@
+GitHub
+Clone – Get the whole project принести локально проэкт из GitHub.
+Pull – get the changes from remote.
+Commit – record changes locally.
+Push – upload changes to repository (удаленный сервер GitHub).
+Checkout – switch to another Branch or create a new.
+Branch – set of code with unique changes.
+Pull request – a process of merge code to master branch.
+Fetch – get info about remote branch (done by Pull command).
+Merge – sync of your local and remote code (done by Pull command).
