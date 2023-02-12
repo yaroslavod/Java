@@ -1,0 +1,9 @@
+git clone - get remote project
+git add (-A) - add file(s) to local git
+git commit - save snapshot
+git push - send snapshot to remote repository
+git branch - list all branches
+git status - list the files with uncommited changes
+git checkout <name> - switch to branch
+git checkout -b - create a new branch
+git diff - check the list of changes
