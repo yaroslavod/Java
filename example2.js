@@ -44,4 +44,14 @@
 // console.log(cat.say_miyau());
 
 
+// import java.util.Scanner;
+
+// public class AppleCounter {
+//   public static void main(String[] args) {
+//     Scanner input = new Scanner(System.in);
+//     System.out.print("Enter the number of apples: ");
+//     int count = input.nextInt();
+//     System.out.println("You have " + count + " apples.");
+//   }
+// }
 
